@@ -28,7 +28,7 @@
 
 ###
 
-<div align="center">
+<div align="right">
   <a href="https://www.linkedin.com/in/jamillyferreira/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -44,5 +44,10 @@
 
 <h4 align="left">Desenvolvedora em formação | Graduada em ADS</h4>
 
+###
+
+<br clear="both">
+
 <p align="left">Do frontend ao backend: começando com React e JavaScript, expandindo para Java. Este é meu espaço de experimentação e aprendizado, onde transformo conceitos em projetos reais. Você vai encontrar desde interfaces responsivas até APIs e integrações.</p>
 
+###
