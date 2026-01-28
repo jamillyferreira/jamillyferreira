@@ -44,10 +44,6 @@
 
 <h4 align="left">Desenvolvedora em formação | Graduada em ADS</h4>
 
-###
-
-<br clear="both">
-
 <p align="left">Do frontend ao backend: começando com React e JavaScript, expandindo para Java. Este é meu espaço de experimentação e aprendizado, onde transformo conceitos em projetos reais. Você vai encontrar desde interfaces responsivas até APIs e integrações.</p>
 
 ###
