@@ -5,16 +5,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="18" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="18" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="18" />
   <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
@@ -35,15 +25,18 @@
   <a href="https://www.instagram.com/dev_jamilly?igsh=bmc4YXAweXNjMzR5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://dev.to/dev_ferreira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
-  </a>
 </div>
 
 ###
 
-<h4 align="left">Desenvolvedora em formação | Graduada em ADS</h4>
+<h4 align="left">Desenvolvedora Backend | Java & Spring Boot</h4>
 
-<p align="left">Do frontend ao backend: começando com React e JavaScript, expandindo para Java. Este é meu espaço de experimentação e aprendizado, onde transformo conceitos em projetos reais. Você vai encontrar desde interfaces responsivas até APIs e integrações.</p>
+<p align="left">
+
+Graduada em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend com Java e Spring Boot. 
+Tenho experiência prévia com frontend (React, JavaScript), o que me dá uma visão mais completa do ciclo de desenvolvimento, mas é no backend onde quero construir minha carreira.
+
+Aqui você vai encontrar projetos com APIs REST, integração com bancos de dados (MySQL, MongoDB) e práticas como clean code e versionamento com Git. 
+Cada projeto é uma aplicação intencional do que estou estudando — não só fazer funcionar, mas fazer certo.</p>
 
 ###
