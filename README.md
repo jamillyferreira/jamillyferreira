@@ -11,8 +11,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=maven" height="60" alt="apachemaven logo"  />
@@ -43,7 +41,7 @@
 Graduada em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend com Java e Spring Boot. 
 Tenho experiência prévia com frontend (React, JavaScript), o que me dá uma visão mais completa do ciclo de desenvolvimento, mas é no backend onde quero construir minha carreira.
 
-Aqui você vai encontrar projetos com APIs REST, integração com bancos de dados (PostgreSQL, MongoDB) e boas práticas como SOLID, clean code e versionamento com Git. 
+Aqui você vai encontrar projetos com APIs REST, integração com bancos de dados e boas práticas como SOLID, clean code e versionamento com Git. 
 Cada projeto é uma aplicação intencional do que estou estudando, não só fazer funcionar, mas fazer certo.</p>
 
 ###
